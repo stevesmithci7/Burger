@@ -1,0 +1,28 @@
+html, body {
+  background:url("./img/falling-burgers.jpg") no-repeat right bottom; ;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  min-height: 100%;
+}
+
+.main {
+  color: #131313;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: transparent !important;
+}
+#hisnameisburger {
+  transform: scaleX(-1);
+}
+
+/* Font-Family: 'Work Sans', Sans-Serif;
+Font-Size: 45px;
+Font-Family: 'Open Sans', Sans-Serif;
+Font-Size: 15px; */
